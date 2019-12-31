@@ -1,0 +1,135 @@
+@media only screen and (max-width: 600px) {
+#page__1{
+	padding: 0;
+}
+.page__1-text{
+	width: 350px;
+}
+.page__1-left{
+	transform: translate(-40px,0);
+}
+.page__1-right{
+	transform: translate(-60px,0);
+}
+.btn-primary{
+	margin-bottom: 20px;
+}
+.page__2-backimg{
+	background-image: none;
+	width: 100vw;
+	height: 200px;
+	text-align: center;
+	transform: translate(-15%,0);
+
+}
+.page__2-img{
+	position: absolute;
+	top: 80px;
+	left: 100%;
+	transform: translate(-75%,0);
+	width: 100vw;
+/*	box-shadow: 0 8px 19px 0 rgba(0, 0, 0, 0.05);
+*/}
+.page__2-heading{
+	font-size: 24px;
+	font-weight: 700;
+	height: 38px;
+	margin: 0 auto;
+	width: 60vw;
+	transform: translate(100px, 100px);
+}
+.page__3-btns{
+	text-align: center;
+	margin: 0 auto 44px;
+	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.26);
+	background-color: #FFFFFF;
+	height: 46px;
+	width: 463px;
+	transform: translate(-13px,0);
+}
+.btn-25, .btn-50, .btn-100{
+	padding: 11px 23px 10px 14px;
+	background-color: #FFFFFF;
+	color: #4A4A4A;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 17px;
+}
+.btn-200{
+	padding: 11px 22px 10px 15px;
+	background-color: #FFFFFF;
+	color: #4A4A4A;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 17px;
+}
+.mob{
+	display: block;
+	margin-bottom: 40px;
+
+}
+.des{
+	display: none;
+}
+#page__4{
+	padding: 100px 0 70px 0;
+}
+.page__4-left{
+	padding: 50px 0 0 80px;
+}
+
+.page__4-heading{
+	color: #31373D;
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 34px;
+	text-align: center;
+	transform: translate(50px);
+}
+.raja-ram {
+	color: #31373D;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 34px;
+	text-align: left;
+}
+.tip-world {
+	color: #31373D;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 34px;
+	text-align: left;
+	transform: translateY(-20px);
+}
+.page__4-text{
+  color: #8B8E91;
+  font-size: 16px;
+  font-style: italic;
+  font-weight: 500;
+  line-height: 22px;
+  width: 366px;
+  text-align: left;
+}
+.page__4-right{
+	top:40px;
+	left: 50px;
+}
+#page__5{
+	padding: 10px 0 100px 0;
+	text-align: center;
+}
+.page__5-left{
+	padding: 50px 0 0 140px;
+	transform: translate(-70px,0);
+	margin-bottom: 30px;
+}
+.page__5-text{
+	width: 330px;
+
+}
+.page__5-right{
+	transform: translate(50px,0);
+
+}
+
+}
